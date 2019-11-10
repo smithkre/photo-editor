@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'iOSPhotoEditor'
+  s.name             = 'KRE-iOSPhotoEditor'
   s.version          = '1.0.0'
   s.summary          = 'Photo Editor supports drawing, writing text and adding stickers and emojis'
 
